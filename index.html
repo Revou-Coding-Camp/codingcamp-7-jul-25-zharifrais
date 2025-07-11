@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Modern To-Do List</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Todo List</h1>
+    </header>
+
+    <section class="todo-input">
+      <input type="text" id="todo-input" placeholder="Add Item..." required />
+      <input type="date" id="todo-date" required />
+      <button id="add-btn">+</button>
+    </section>
+
+    <section class="filters">
+      <button onclick="filterTasks('all')">All</button>
+      <button onclick="filterTasks('today')">Today</button>
+    </section>
+
+    <section>
+      <h2>TO DO</h2>
+      <ul id="todo-list" class="todo-list"></ul>
+    </section>
+
+    <section>
+      <h2>COMPLETED</h2>
+      <ul id="completed-list" class="todo-list completed"></ul>
+    </section>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
