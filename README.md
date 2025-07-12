@@ -32,9 +32,6 @@ todo-app/
 │   └── style.css
 ├── js/
 │   └── script.js
-├── assets/
-│   ├── check-icon.png
-│   └── delete-icon.png
 └── README.md
 ```
 
