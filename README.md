@@ -10,7 +10,7 @@ This is a simple **To-Do List Web App** built as part of a mini project assignme
 * 🗑️ Delete tasks
 * 📆 Filter tasks due **today**
 * ✅ Mark tasks as **completed**
-* 🎨 Modern and responsive design
+
 
 
 ---
