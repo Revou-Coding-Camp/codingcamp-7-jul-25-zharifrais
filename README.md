@@ -37,18 +37,9 @@ todo-app/
 
 ---
 
-### 🔧 How to Use
+### 🔧 Try live demo
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/codingcamp-7-jul-25-zharifrais.git
-   cd codingcamp-7-jul-25-zharifrais
-   ```
-
-2. Open `index.html` in your browser
-
-3. Or simply try the **live demo** here:
+ try the **live demo** here:
    👉 **[Live Preview on GitHub Pages](https://revou-coding-camp.github.io/codingcamp-7-jul-25-zharifrais/)**
 
 ---
